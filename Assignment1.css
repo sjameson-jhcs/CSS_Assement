@@ -1,0 +1,8 @@
+.disclaimer{
+	width:100%;
+	background:red;
+	border-top:solid black 4px;
+	border-bottom:solid black 4px;
+	margin:20px 0px;
+	padding:20px 0px;
+}
